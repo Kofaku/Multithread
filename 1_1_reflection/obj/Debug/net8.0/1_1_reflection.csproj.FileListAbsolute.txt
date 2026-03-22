@@ -1,0 +1,14 @@
+C:\Users\masha\source\Multithread\1_1_reflection\obj\Debug\net8.0\1_1_reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masha\source\Multithread\1_1_reflection\obj\Debug\net8.0\1_1_reflection.AssemblyInfoInputs.cache
+C:\Users\masha\source\Multithread\1_1_reflection\obj\Debug\net8.0\1_1_reflection.AssemblyInfo.cs
+C:\Users\masha\source\Multithread\1_1_reflection\obj\Debug\net8.0\1_1_reflection.csproj.CoreCompileInputs.cache
+C:\Users\masha\source\Multithread\1_1_reflection\bin\Debug\net8.0\1_1_reflection.exe
+C:\Users\masha\source\Multithread\1_1_reflection\bin\Debug\net8.0\1_1_reflection.deps.json
+C:\Users\masha\source\Multithread\1_1_reflection\bin\Debug\net8.0\1_1_reflection.runtimeconfig.json
+C:\Users\masha\source\Multithread\1_1_reflection\bin\Debug\net8.0\1_1_reflection.dll
+C:\Users\masha\source\Multithread\1_1_reflection\bin\Debug\net8.0\1_1_reflection.pdb
+C:\Users\masha\source\Multithread\1_1_reflection\obj\Debug\net8.0\1_1_reflection.dll
+C:\Users\masha\source\Multithread\1_1_reflection\obj\Debug\net8.0\refint\1_1_reflection.dll
+C:\Users\masha\source\Multithread\1_1_reflection\obj\Debug\net8.0\1_1_reflection.pdb
+C:\Users\masha\source\Multithread\1_1_reflection\obj\Debug\net8.0\1_1_reflection.genruntimeconfig.cache
+C:\Users\masha\source\Multithread\1_1_reflection\obj\Debug\net8.0\ref\1_1_reflection.dll

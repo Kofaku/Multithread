@@ -1,0 +1,11 @@
+C:\Users\masha\source\Multithread\1_2_Library\bin\Debug\net8.0\1_2_Library.deps.json
+C:\Users\masha\source\Multithread\1_2_Library\bin\Debug\net8.0\1_2_Library.dll
+C:\Users\masha\source\Multithread\1_2_Library\bin\Debug\net8.0\1_2_Library.pdb
+C:\Users\masha\source\Multithread\1_2_Library\obj\Debug\net8.0\1_2_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masha\source\Multithread\1_2_Library\obj\Debug\net8.0\1_2_Library.AssemblyInfoInputs.cache
+C:\Users\masha\source\Multithread\1_2_Library\obj\Debug\net8.0\1_2_Library.AssemblyInfo.cs
+C:\Users\masha\source\Multithread\1_2_Library\obj\Debug\net8.0\1_2_Library.csproj.CoreCompileInputs.cache
+C:\Users\masha\source\Multithread\1_2_Library\obj\Debug\net8.0\1_2_Library.dll
+C:\Users\masha\source\Multithread\1_2_Library\obj\Debug\net8.0\refint\1_2_Library.dll
+C:\Users\masha\source\Multithread\1_2_Library\obj\Debug\net8.0\1_2_Library.pdb
+C:\Users\masha\source\Multithread\1_2_Library\obj\Debug\net8.0\ref\1_2_Library.dll

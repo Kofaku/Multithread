@@ -1,0 +1,14 @@
+C:\Users\masha\source\Multithread\1_3_console\bin\Debug\net8.0\1_3_console.exe
+C:\Users\masha\source\Multithread\1_3_console\bin\Debug\net8.0\1_3_console.deps.json
+C:\Users\masha\source\Multithread\1_3_console\bin\Debug\net8.0\1_3_console.runtimeconfig.json
+C:\Users\masha\source\Multithread\1_3_console\bin\Debug\net8.0\1_3_console.dll
+C:\Users\masha\source\Multithread\1_3_console\bin\Debug\net8.0\1_3_console.pdb
+C:\Users\masha\source\Multithread\1_3_console\obj\Debug\net8.0\1_3_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masha\source\Multithread\1_3_console\obj\Debug\net8.0\1_3_console.AssemblyInfoInputs.cache
+C:\Users\masha\source\Multithread\1_3_console\obj\Debug\net8.0\1_3_console.AssemblyInfo.cs
+C:\Users\masha\source\Multithread\1_3_console\obj\Debug\net8.0\1_3_console.csproj.CoreCompileInputs.cache
+C:\Users\masha\source\Multithread\1_3_console\obj\Debug\net8.0\1_3_console.dll
+C:\Users\masha\source\Multithread\1_3_console\obj\Debug\net8.0\refint\1_3_console.dll
+C:\Users\masha\source\Multithread\1_3_console\obj\Debug\net8.0\1_3_console.pdb
+C:\Users\masha\source\Multithread\1_3_console\obj\Debug\net8.0\1_3_console.genruntimeconfig.cache
+C:\Users\masha\source\Multithread\1_3_console\obj\Debug\net8.0\ref\1_3_console.dll
