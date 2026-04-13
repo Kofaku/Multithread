@@ -1,0 +1,15 @@
+C:\Users\masha\source\Multithread\2_Serialization\obj\Debug\net8.0\2_Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masha\source\Multithread\2_Serialization\obj\Debug\net8.0\2_Serialization.AssemblyInfoInputs.cache
+C:\Users\masha\source\Multithread\2_Serialization\obj\Debug\net8.0\2_Serialization.AssemblyInfo.cs
+C:\Users\masha\source\Multithread\2_Serialization\obj\Debug\net8.0\2_Serialization.csproj.CoreCompileInputs.cache
+C:\Users\masha\source\Multithread\2_Serialization\obj\Debug\net8.0\2_Serialization.sourcelink.json
+C:\Users\masha\source\Multithread\2_Serialization\bin\Debug\net8.0\2_Serialization.exe
+C:\Users\masha\source\Multithread\2_Serialization\bin\Debug\net8.0\2_Serialization.deps.json
+C:\Users\masha\source\Multithread\2_Serialization\bin\Debug\net8.0\2_Serialization.runtimeconfig.json
+C:\Users\masha\source\Multithread\2_Serialization\bin\Debug\net8.0\2_Serialization.dll
+C:\Users\masha\source\Multithread\2_Serialization\bin\Debug\net8.0\2_Serialization.pdb
+C:\Users\masha\source\Multithread\2_Serialization\obj\Debug\net8.0\2_Serialization.dll
+C:\Users\masha\source\Multithread\2_Serialization\obj\Debug\net8.0\refint\2_Serialization.dll
+C:\Users\masha\source\Multithread\2_Serialization\obj\Debug\net8.0\2_Serialization.pdb
+C:\Users\masha\source\Multithread\2_Serialization\obj\Debug\net8.0\2_Serialization.genruntimeconfig.cache
+C:\Users\masha\source\Multithread\2_Serialization\obj\Debug\net8.0\ref\2_Serialization.dll

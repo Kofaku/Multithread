@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDevice xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Device Model="Model_1">
+    <Manufacturer>Brand_2</Manufacturer>
+    <Year>2016</Year>
+    <Price>500</Price>
+  </Device>
+  <Device Model="Model_2">
+    <Manufacturer>Brand_3</Manufacturer>
+    <Year>2017</Year>
+    <Price>1000</Price>
+  </Device>
+  <Device Model="Model_3">
+    <Manufacturer>Brand_1</Manufacturer>
+    <Year>2018</Year>
+    <Price>1500</Price>
+  </Device>
+  <Device Model="Model_4">
+    <Manufacturer>Brand_2</Manufacturer>
+    <Year>2019</Year>
+    <Price>2000</Price>
+  </Device>
+  <Device Model="Model_5">
+    <Manufacturer>Brand_3</Manufacturer>
+    <Year>2020</Year>
+    <Price>2500</Price>
+  </Device>
+  <Device Model="Model_6">
+    <Manufacturer>Brand_1</Manufacturer>
+    <Year>2021</Year>
+    <Price>3000</Price>
+  </Device>
+  <Device Model="Model_7">
+    <Manufacturer>Brand_2</Manufacturer>
+    <Year>2022</Year>
+    <Price>3500</Price>
+  </Device>
+  <Device Model="Model_8">
+    <Manufacturer>Brand_3</Manufacturer>
+    <Year>2023</Year>
+    <Price>4000</Price>
+  </Device>
+  <Device Model="Model_9">
+    <Manufacturer>Brand_1</Manufacturer>
+    <Year>2024</Year>
+    <Price>4500</Price>
+  </Device>
+  <Device Model="Model_10">
+    <Manufacturer>Brand_2</Manufacturer>
+    <Year>2025</Year>
+    <Price>5000</Price>
+  </Device>
+</ArrayOfDevice>
