@@ -1,0 +1,15 @@
+C:\Users\masha\source\Multithread\3_Multithreading\bin\Debug\net8.0\3_Multithreading.exe
+C:\Users\masha\source\Multithread\3_Multithreading\bin\Debug\net8.0\3_Multithreading.deps.json
+C:\Users\masha\source\Multithread\3_Multithreading\bin\Debug\net8.0\3_Multithreading.runtimeconfig.json
+C:\Users\masha\source\Multithread\3_Multithreading\bin\Debug\net8.0\3_Multithreading.dll
+C:\Users\masha\source\Multithread\3_Multithreading\bin\Debug\net8.0\3_Multithreading.pdb
+C:\Users\masha\source\Multithread\3_Multithreading\obj\Debug\net8.0\3_Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masha\source\Multithread\3_Multithreading\obj\Debug\net8.0\3_Multithreading.AssemblyInfoInputs.cache
+C:\Users\masha\source\Multithread\3_Multithreading\obj\Debug\net8.0\3_Multithreading.AssemblyInfo.cs
+C:\Users\masha\source\Multithread\3_Multithreading\obj\Debug\net8.0\3_Multithreading.csproj.CoreCompileInputs.cache
+C:\Users\masha\source\Multithread\3_Multithreading\obj\Debug\net8.0\3_Multithreading.sourcelink.json
+C:\Users\masha\source\Multithread\3_Multithreading\obj\Debug\net8.0\3_Multithreading.dll
+C:\Users\masha\source\Multithread\3_Multithreading\obj\Debug\net8.0\refint\3_Multithreading.dll
+C:\Users\masha\source\Multithread\3_Multithreading\obj\Debug\net8.0\3_Multithreading.pdb
+C:\Users\masha\source\Multithread\3_Multithreading\obj\Debug\net8.0\3_Multithreading.genruntimeconfig.cache
+C:\Users\masha\source\Multithread\3_Multithreading\obj\Debug\net8.0\ref\3_Multithreading.dll
