@@ -1,28 +1,21 @@
 ﻿using System.Text;
 
-
 namespace _3_Multithreading
 {
     class Program
     {
-        static void Main()
+        static async Task Main()
         {
             Console.OutputEncoding = Encoding.UTF8;
 
             List<Person> people = GeneratePeople(20);
+            TaskFileProcessor taskProcessor = new TaskFileProcessor();
 
-            FileProcessor processor = new FileProcessor();
+            taskProcessor.WriteTwoFilesWithTasks(people);
 
-            processor.WriteTwoFiles(people);
+            taskProcessor.ReadAndMergeWithTasks();
 
-            processor.ReadAndMergeAlternately();
-
-            processor.ReadFileSingleThread();
-
-            processor.ReadFileTwoThreads();
-
-            processor.ReadFileWithSemaphore();
-
+            await taskProcessor.ReadAndOutputAsync();
         }
 
         static List<Person> GeneratePeople(int count)
