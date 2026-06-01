@@ -16,6 +16,8 @@ namespace _3_Multithreading
             taskProcessor.ReadAndMergeWithTasks();
 
             await taskProcessor.ReadAndOutputAsync();
+
+            Assignment5Runner.Run();
         }
 
         static List<Person> GeneratePeople(int count)
