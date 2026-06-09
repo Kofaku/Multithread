@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\masha\\source\\Multithread\\3_Multithreading\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4864A12-2AAB-4413-BC3F-C23E0F0B6B10}|3_Multithreading.csproj|c:\\users\\masha\\source\\multithread\\3_multithreading\\taskfileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4864A12-2AAB-4413-BC3F-C23E0F0B6B10}|3_Multithreading.csproj|solutionrelative:taskfileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D4864A12-2AAB-4413-BC3F-C23E0F0B6B10}|3_Multithreading.csproj|c:\\users\\masha\\source\\multithread\\3_multithreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4864A12-2AAB-4413-BC3F-C23E0F0B6B10}|3_Multithreading.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4864A12-2AAB-4413-BC3F-C23E0F0B6B10}|3_Multithreading.csproj|c:\\users\\masha\\source\\multithread\\3_multithreading\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4864A12-2AAB-4413-BC3F-C23E0F0B6B10}|3_Multithreading.csproj|solutionrelative:databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4864A12-2AAB-4413-BC3F-C23E0F0B6B10}|3_Multithreading.csproj|c:\\users\\masha\\source\\multithread\\3_multithreading\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4864A12-2AAB-4413-BC3F-C23E0F0B6B10}|3_Multithreading.csproj|solutionrelative:phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4864A12-2AAB-4413-BC3F-C23E0F0B6B10}|3_Multithreading.csproj|c:\\users\\masha\\source\\multithread\\3_multithreading\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4864A12-2AAB-4413-BC3F-C23E0F0B6B10}|3_Multithreading.csproj|solutionrelative:manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4864A12-2AAB-4413-BC3F-C23E0F0B6B10}|3_Multithreading.csproj|c:\\users\\masha\\source\\multithread\\3_multithreading\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4864A12-2AAB-4413-BC3F-C23E0F0B6B10}|3_Multithreading.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4864A12-2AAB-4413-BC3F-C23E0F0B6B10}|3_Multithreading.csproj|c:\\users\\masha\\source\\multithread\\3_multithreading\\fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4864A12-2AAB-4413-BC3F-C23E0F0B6B10}|3_Multithreading.csproj|solutionrelative:fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4864A12-2AAB-4413-BC3F-C23E0F0B6B10}|3_Multithreading.csproj|c:\\users\\masha\\source\\multithread\\3_multithreading\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4864A12-2AAB-4413-BC3F-C23E0F0B6B10}|3_Multithreading.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\masha\\source\\Multithread\\3_Multithreading\\TaskFileProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskFileProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +38,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TaskFileProcessor.cs",
-              "DocumentMoniker": "C:\\Users\\masha\\source\\Multithread\\3_Multithreading\\TaskFileProcessor.cs",
-              "RelativeDocumentMoniker": "TaskFileProcessor.cs",
-              "ToolTip": "C:\\Users\\masha\\source\\Multithread\\3_Multithreading\\TaskFileProcessor.cs*",
-              "RelativeToolTip": "TaskFileProcessor.cs*",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAowFAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\Multithread\\3_Multithreading\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "DatabaseService.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\Multithread\\3_Multithreading\\DatabaseService.cs",
+              "RelativeToolTip": "DatabaseService.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAD4v5AAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T19:52:55.214Z",
+              "WhenOpened": "2026-06-09T13:02:25.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\Multithread\\3_Multithreading\\Phone.cs",
+              "RelativeDocumentMoniker": "Phone.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\Multithread\\3_Multithreading\\Phone.cs",
+              "RelativeToolTip": "Phone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T13:02:05.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\Multithread\\3_Multithreading\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "Manufacturer.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\Multithread\\3_Multithreading\\Manufacturer.cs",
+              "RelativeToolTip": "Manufacturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T13:01:47.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskFileProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\masha\\source\\Multithread\\3_Multithreading\\TaskFileProcessor.cs",
+              "RelativeDocumentMoniker": "TaskFileProcessor.cs",
+              "ToolTip": "C:\\Users\\masha\\source\\Multithread\\3_Multithreading\\TaskFileProcessor.cs",
+              "RelativeToolTip": "TaskFileProcessor.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T19:52:55.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FileProcessor.cs",
               "DocumentMoniker": "C:\\Users\\masha\\source\\Multithread\\3_Multithreading\\FileProcessor.cs",
               "RelativeDocumentMoniker": "FileProcessor.cs",
@@ -51,29 +100,31 @@
               "RelativeToolTip": "FileProcessor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T19:11:10.157Z"
+              "WhenOpened": "2026-04-19T19:11:10.157Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\masha\\source\\Multithread\\3_Multithreading\\Person.cs",
               "RelativeDocumentMoniker": "Person.cs",
               "ToolTip": "C:\\Users\\masha\\source\\Multithread\\3_Multithreading\\Person.cs",
               "RelativeToolTip": "Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T19:06:42.515Z"
+              "WhenOpened": "2026-04-19T19:06:42.515Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\masha\\source\\Multithread\\3_Multithreading\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\masha\\source\\Multithread\\3_Multithreading\\Program.cs*",
               "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAgwHYAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T19:05:25.053Z",
               "EditorCaption": ""
